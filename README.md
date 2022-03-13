@@ -1,4 +1,4 @@
-# Footbal data analysis
+# Football data analysis
 
 Data used in the project: [Ultimate 25k+ Matches Football Database](https://www.kaggle.com/prajitdatta/ultimate-25k-matches-football-database-european)
 
